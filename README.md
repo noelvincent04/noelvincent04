@@ -1,4 +1,4 @@
-## Hey, I'm Noel 👋
+## Hi, I'm Noel 👋
 
 B.Tech CSE (Quantum Computing) student at VIT Chennai.
 
